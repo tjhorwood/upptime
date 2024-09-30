@@ -4,19 +4,19 @@
     "url": "https://www.tjhorwood.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tjhorwood.com.ico",
     "slug": "tjhorwood",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "98.78%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.49%",
     "time": 329,
-    "timeDay": 333,
-    "timeWeek": 326,
+    "timeDay": 332,
+    "timeWeek": 322,
     "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-09-30": 123
+      "2024-09-30": 125
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://www.health-sync.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.health-sync.org.ico",
     "slug": "health-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "91.65%",
+    "uptimeDay": "91.64%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.51%",
-    "time": 408,
-    "timeDay": 410,
-    "timeWeek": 400,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "time": 406,
+    "timeDay": 399,
+    "timeWeek": 391,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2024-09-30": 120
     }
