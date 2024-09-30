@@ -1,7 +1,7 @@
 url: https://www.health-sync.org
-status: up
-code: 200
-responseTime: 229
-lastUpdated: 2024-09-30T16:26:31.766Z
+status: down
+code: 502
+responseTime: 14523
+lastUpdated: 2024-09-30T19:26:12.968Z
 startTime: 2024-09-13T17:09:36.848Z
 generator: Upptime <https://github.com/upptime/upptime>
