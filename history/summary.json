@@ -24,19 +24,19 @@
     "url": "https://www.health-sync.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.health-sync.org.ico",
     "slug": "health-sync",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "89.47%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "88.85%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 556,
-    "timeDay": 1949,
-    "timeWeek": 749,
+    "timeDay": 1809,
+    "timeWeek": 744,
     "timeMonth": 556,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-09-30": 151
+      "2024-09-30": 160
     }
   }
 ]
