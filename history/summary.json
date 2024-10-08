@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
-    "time": 485,
-    "timeDay": 382,
-    "timeWeek": 334,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 483,
+    "timeDay": 388,
+    "timeWeek": 335,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2024-09-30": 156
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.health-sync.org.ico",
     "slug": "health-sync",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 519,
-    "timeDay": 455,
-    "timeWeek": 804,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 517,
+    "timeDay": 423,
+    "timeWeek": 416,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2024-09-30": 151
     }
