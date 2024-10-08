@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tjhorwood.com.ico",
     "slug": "tjhorwood",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 479,
-    "timeDay": 333,
-    "timeWeek": 332,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 477,
+    "timeDay": 277,
+    "timeWeek": 324,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2024-09-30": 156
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.58%",
-    "time": 514,
-    "timeDay": 384,
-    "timeWeek": 411,
-    "timeMonth": 514,
-    "timeYear": 514,
+    "time": 512,
+    "timeDay": 343,
+    "timeWeek": 403,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2024-09-30": 151
     }
